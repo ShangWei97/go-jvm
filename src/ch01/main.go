@@ -1,4 +1,4 @@
-package com_shang_ch01
+package main
 
 import "fmt"
 
